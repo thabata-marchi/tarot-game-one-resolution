@@ -1,0 +1,9 @@
+button.start-game {
+  display: block;
+  margin: 0 auto 10px; 
+}
+
+.cards-table {
+  display: flex;
+  flex-flow: row wrap  
+}

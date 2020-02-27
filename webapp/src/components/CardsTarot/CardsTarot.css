@@ -1,0 +1,19 @@
+.cards img {
+  display: block;
+  margin: 20px auto 0;
+}
+
+.card-body {
+  text-align: center;  
+  padding: 10px;
+}
+
+.card-body h2.card-title {
+  margin: 0 auto;
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.card-body .card-text {
+  margin-top: 5px;
+}
